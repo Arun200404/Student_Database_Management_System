@@ -1,0 +1,53 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John",
+      "roll": "101",
+      "place": "Bangalore",
+      "pno": "9876543210"
+    },
+    {
+      "id": "2",
+      "name": "Jane",
+      "roll": "102",
+      "place": "Mumbai",
+      "pno": "9876543211"
+    },
+    {
+      "id": "3",
+      "name": "Alice",
+      "roll": "103",
+      "place": "Chennai",
+      "pno": "9876543212"
+    },
+    {
+      "id": "4",
+      "name": "Bob",
+      "roll": "104",
+      "place": "Delhi",
+      "pno": "9876543213"
+    },
+    {
+      "id": "5",
+      "name": "Arun Kumar S",
+      "roll": "2974072084",
+      "place": "KR Puram",
+      "pno": "1234567890"
+    },
+    {
+      "id": "6",
+      "name": "Vamsi",
+      "roll": "2094882",
+      "place": "Bangalore",
+      "pno": "1234567890"
+    },
+    {
+      "id": "9992",
+      "name": "Deeraj",
+      "roll": "234",
+      "place": "Vijayawada",
+      "pno": "4563425166"
+    }
+  ]
+}
