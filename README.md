@@ -29,3 +29,9 @@ A responsive and simple web application to **create**, **view**, **edit**, and *
 
 ---
 
+## Sample Screenshots
+![Screenshot 2025-06-21 003740](https://github.com/user-attachments/assets/c4e67a29-c974-482e-a3a7-968f3f605eb3)
+![Screenshot 2025-06-21 003749](https://github.com/user-attachments/assets/deb8d607-3c34-4caf-9a3f-8ca1ec996dac)
+
+
+
